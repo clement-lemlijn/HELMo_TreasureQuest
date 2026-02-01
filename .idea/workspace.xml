@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548115e6-79af-4a8e-8069-d0eea5545f4c" name="Changes" comment="" />
+    <list default="true" id="548115e6-79af-4a8e-8069-d0eea5545f4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "clement-lemlijn"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/clement-lemlijn/HELMo_TreasureQuest.git",
+    "accountId": "1f6e1c0d-98f8-446f-80f8-b89b51d45a24"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="394qXIwTyM0znfqEM6VJd83Oc7C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,8 +36,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Projets/HELMo_TreasureQuest/ai2023.lemlijn.clement/ai2023.lemlijn.clement",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projets/HELMo_TreasureQuest/ai2023.lemlijn.clement/ai2023.lemlijn.clement/HELMo_TreasureQuest",
     "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
@@ -42,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769965728327</updated>
       <workItem from="1769965729550" duration="14000" />
+      <workItem from="1769967332054" duration="96000" />
     </task>
     <servers />
   </component>
