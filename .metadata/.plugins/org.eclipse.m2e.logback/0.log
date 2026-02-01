@@ -1,0 +1,2 @@
+2026-02-01 18:12:37,277 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-02-01 18:27:38,932 [Worker-28: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\cleme\git\HELMo_TreasureQuest\.git]
